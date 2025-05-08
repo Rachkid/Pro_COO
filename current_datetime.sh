@@ -1,6 +1,7 @@
 #!/bin/bash
+#ce code affiche la date et l'heure actuelle 
 date_heure=$(date "+%Y-%m-%d %H:%M:%S")
-echo "la date et l'heure actuelle : $date_heure"
+echo "la date et l'heure actuelle : $date_heure."
 
 #la commande date est une fonction qui est utisée pour affichée:
 #%Y: une année à 4 chiffres;
